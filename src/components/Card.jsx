@@ -2,7 +2,7 @@ function Card({ kota, rating, nama }) {
   return (
     <div className="restoran">
       <div className="img-content">
-        <img src="./src/assets/hero.jpeg" alt="Gambar Restoran" />
+        <img src="./assets/hero.jpeg" alt="Gambar Restoran" />
         <div className="kota">
           <p>{kota}</p>
         </div>
